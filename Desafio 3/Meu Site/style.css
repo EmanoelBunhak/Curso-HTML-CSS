@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(231, 231, 201);
+    
+}
+
+header{
+    background: linear-gradient(to bottom, rgba(99, 199, 99, 0.648), rgba(7, 84, 7, 0.837));
+    height: 180px;
+}
+
+.cab{
+    height: 150px;
+    text-align: center;
+    color: rgb(242, 242, 242);
+}
+
+h1{
+    padding: 40px 0 0 0;
+}
+
+.p_cab{
+    padding: 22px 0 0 0;
+}
+
+.nav_bar{
+    
+}
+
+.nav_bar >a{
+    text-decoration: none;
+    color: rgb(123, 232, 123);
+    padding: 0 0px 0 30px;
+}
+
+.nav_bar >a:hover{
+    color: rgb(227, 255, 222);
+}
+
+main{
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.menu{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.sec_1 >h2{
+    padding: 20px 0 10px 22px;
+    color: rgb(0, 85, 0);
+}
+
+.sec_1 > p{
+    text-align: justify;
+    margin: 5px 30px 10px 22px;
+}
+
+.sec_2 >h3{
+    color: rgb(22, 110, 22);
+    background: linear-gradient(to right, rgba(105, 195, 105, 0.648), rgba(255, 255, 255, 0.837));
+    margin: 20px 30px 20px 22px;
+    padding: 0 0 0 5px;
+}
+
+.span_1{
+
+}
+
+.sec_2{
+    align-items: center;
+}
+
+.sec_2 >p{
+    text-align: justify;
+    margin: 5px 30px 10px 22px;
+}
+
+.span_2{
+    color: rgb(0, 64, 0);
+    background-color:rgba(105, 195, 105, 0.648) ;
+}
+
+.bugd{
+    width: 100%;
+    height: 320px;
+    margin: 10px 0 0 0;
+}
+
+.sec_3 >h3{
+    color: rgb(22, 110, 22);
+    background: linear-gradient(to right, rgba(105, 195, 105, 0.648), rgba(255, 255, 255, 0.837));
+    margin: 20px 30px 20px 22px;
+    padding: 0 0 0 5px;
+}
+
+.sec_3 > p{
+    text-align: justify;
+    margin: 5px 30px 10px 22px;
+}
+
+.sec_3{
+    text-align: center;
+}
+
+
+.irina{
+    width: 96%;
+    height: 280px;
+}
+
+.video{
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(2, 67, 7);
+    margin: 18px 0 0 0;
+    text-align: center;
+}
+
+.video > iframe{
+    width: 90%;
+    padding: 20px 10px 20px 10px;
+    height: 450px;
+}
+
+.ult{
+    margin: 20px 0 20px 0;
+}
+
+.rodape{
+    border-radius: 10px;
+    background-color: rgba(52, 206, 155, 0.875);
+    margin: 10px;
+    height: 270px;
+}
+
+.rodape >h3{
+    background-color: rgba(9, 85, 16, 0.809);
+    border-radius: 10px 10px 0 0;
+    height: 35px;
+    color: white;
+    padding: 10px 0 0 7px;
+}
+
+.rodape >p{
+    text-align: justify;
+    margin: 15px 30px 10px 22px;
+}
+
+.rodape >li{
+   color: aqua;
+}
